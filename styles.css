@@ -28,7 +28,8 @@ body{
     color:red;
  }
  div{
-    margin:0;
+    margin:0; 
+       background-color: #E3DFFD;
  }
  h1{
     margin:0;
