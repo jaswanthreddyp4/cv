@@ -1,6 +1,7 @@
 body{
-    background-color: beige;
     margin:0;
+    background-color: beige;
+    font-family:'Montserrat' ;
  }
  hr{
     background-color:rgba(245, 245, 245, 0.801);
@@ -17,9 +18,11 @@ body{
 
  }
  h1:hover{
-    color:blue;
+    color:#fff;
+
+
  }
- h3 :hover{
+ h3:hover{
     color:#cf1834;
  }
  .me{
@@ -28,10 +31,15 @@ body{
  a:hover{
     color:red;
  }
- div{
-    margin:0; 
-       background-color: #E3DFFD;
- }
+ 
+ 
  h1{
     margin-top:0;
+    font-family: 'Montserrat', sans-serif;
+
+
  }
+ .container-fluid{
+   background-color: #fc948e;
+   padding:2% 5%;
+}
